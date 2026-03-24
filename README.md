@@ -182,8 +182,8 @@ Or use Postman.
 
 ## 👨‍💻 Author
 
-Your Name
-Shubham Nitin Ahire
-FastAPI | Python | MySQL | JWT | AWS DEVOPS 
+## Name
+* Shubham Nitin Ahire
+* FastAPI | Python | MySQL | JWT | AWS DEVOPS 
 
 GitHub: https://github.com/shubhamahire9168
