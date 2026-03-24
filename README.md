@@ -165,21 +165,6 @@ Use Swagger UI
 http://127.0.0.1:8000/docs
 ```
 
-Or use Postman.
-
----
-
-## 📌 Future Improvements
-
-*  Role based auth
-* Refresh token
-* Email login
-* Docker support
-* Deployment on AWS / VPS
-  
-
----
-
 ## 👨‍💻 Author
 
 ## Name
