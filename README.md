@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Description
+## 📌 Project Description 
 
 This is a production-style backend API built using **FastAPI + MySQL + JWT Authentication + Python**.
 
