@@ -91,6 +91,8 @@ mysql+pymysql://root:password@localhost/fastapi_db
 ## Run server
 
 ```
+venv\Scripts\activate
+python -m uvicorn app.main:app --reload
 uvicorn app.main:app --reload
 ```
 
@@ -100,11 +102,7 @@ uvicorn app.main:app --reload
 http://127.0.0.1:8000/docs
 ```
 
----
-
 ## 🔐 Features
-
-🔐 Features
 
 * ✅ Register User API
 * ✅ Login API
